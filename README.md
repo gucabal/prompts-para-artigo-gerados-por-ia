@@ -1,5 +1,8 @@
-﻿<p align="center">
-    <img width="100" src=".github/assets/banner.png">
+<p align="center">
+<img 
+    src="./github/assets/banner.png"
+    width="100"
+/>
 
 </p>
 
@@ -20,21 +23,15 @@
 -------
 
 <p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
+<img 
+    src="./github/assets/preview.png"
+    width="400"
+/>
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
 
 
- 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
